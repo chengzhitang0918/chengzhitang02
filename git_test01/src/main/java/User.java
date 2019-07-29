@@ -7,6 +7,6 @@ public class User {
 
     public void show(){
 
-        System.out.println("你好啊");
+        System.out.println("你好啊哈哈哈哈");
     }
 }
